@@ -1,6 +1,6 @@
 {
-	"author": "Todd Shagott",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Todd Shagott",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
